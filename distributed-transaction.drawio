@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T09:55:19.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8Ijr6Db4QtxHvjxYF9pz" version="22.1.18" type="github">
-  <diagram name="第 1 页" id="Q4chASuq30LGO_yorPZP">
+<mxfile host="app.diagrams.net" modified="2024-01-15T09:56:03.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="t_-PhhFtbja2oUl4b7Ay" version="22.1.18" type="github" pages="2">
+  <diagram name="概述" id="Q4chASuq30LGO_yorPZP">
     <mxGraphModel dx="790" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -7,6 +7,14 @@
         <mxCell id="oFVhv8_tYSmoTK4LMeDl-3" value="&lt;h1&gt;&lt;font style=&quot;font-weight: normal;&quot; face=&quot;Verdana&quot;&gt;D · T&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font face=&quot;uiAQiR2UsXftJaIBd71A&quot;&gt;2pc、3pc、Tcc、lcn&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;uiAQiR2UsXftJaIBd71A&quot;&gt;消息队列+事件表+定时任务、&lt;/font&gt;&lt;span style=&quot;font-family: uiAQiR2UsXftJaIBd71A; background-color: initial;&quot;&gt;可靠消息、&lt;/span&gt;&lt;span style=&quot;font-family: uiAQiR2UsXftJaIBd71A; background-color: initial;&quot;&gt;事务消息&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-family: uiAQiR2UsXftJaIBd71A; background-color: initial;&quot;&gt;最大努力通知&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontFamily=Architects Daughter;shadow=0;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="60" width="531" height="240" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ouR4LaZyLQhi3ksTLmAw" name="可靠消息">
+    <mxGraphModel dx="790" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
